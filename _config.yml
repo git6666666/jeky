@@ -1,0 +1,12 @@
+title: "People's Blog"
+description: "A minimal Jekyll blog"
+url: ""
+baseurl: ""
+
+markdown: kramdown
+permalink: /posts/:title/
+theme: minima
+
+# 可选：时区与语言
+timezone: Asia/Shanghai
+lang: zh-CN
